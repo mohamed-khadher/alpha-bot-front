@@ -1,0 +1,13 @@
+.titlebar {
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+    margin-bottom: 25px;
+}
+
+.titlebar a .item {
+    -webkit-app-region: no-drag;
+}
+
+.titlebar-close {
+    -webkit-app-region: no-drag;
+}
